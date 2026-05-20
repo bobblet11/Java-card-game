@@ -8,7 +8,7 @@
 # Java Card Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/playthrough.gif" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/playthrough.gif" alt="Gameplay" width="500">
 </p>
 
 A small, single-player Java card game with a simple GUI. This repository contains the core classes used to represent a deck of cards, hands, and a minimal graphical interface to run and test the game locally.
@@ -54,27 +54,27 @@ If you're using an IDE (IntelliJ IDEA, Eclipse, VS Code), import the folder as a
 This project is a simple demonstration rather than a full game with rules. Use the GUI to deal cards, view a hand, and explore the basic mechanics provided by the model classes.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/starting_page.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/starting_page.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/hand_dealt_ss.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/hand_dealt_ss.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/replacing_card_1_ss.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/replacing_card_1_ss.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/reveal_dealer_lost_ss.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/reveal_dealer_lost_ss.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/reveal_dealer_win_ss.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/reveal_dealer_win_ss.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/gameover_ss.png" alt="Gameplay" width="800">
+  <img src="https://raw.githubusercontent.com/bobblet11/Java-card-game/main/Images/readme/gameover_ss.png" alt="Gameplay" width="500">
 </p>
 
 
