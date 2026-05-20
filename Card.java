@@ -20,7 +20,7 @@ import javax.swing.*;
 
 public class Card{
 	
-	String backFaceImagePath = "src/Images/card_back.gif";
+	String backFaceImagePath = "images/cards/card_back.gif";
 	String imagePath = "";
 	String value = "";
 	String suite = "";
@@ -61,7 +61,7 @@ public class Card{
 		{
 			isSpecial = true;
 		}
-		imagePath = "src/Images/card_" + card + ".gif";
+		imagePath = "images/cards/card_" + card + ".gif";
 		RenderImage();
 	}
 	
